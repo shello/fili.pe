@@ -1,0 +1,79 @@
+:root {
+  /* https://coolors.co/e4e0da-2a2928-d62882-d62828-d68228 */
+  --color-bg: hsl(36, 15.6%, 87.5%);
+  --color-fg: hsl(36, 2.4%, 16.1%);
+  --color-a: hsl(329, 68.5%, 49.8%);
+  --color-b: hsl(0, 68.5%, 49.8%);
+  --color-b-dark: hsl(0, 68.5%, 29.8%);
+  --color-c: hsl(31, 68.5%, 49.8%);
+}
+
+body {
+  max-width: 48em;
+  font-size: 15pt;
+  margin: 0 auto;  /* CSS Centering HAX :) */
+  padding: 0 20px;
+
+  background-color: var(--color-bg);
+  color: var(--color-fg);
+}
+
+a {
+  color: var(--color-b);
+}
+a:visited {
+  color: var(--color-b-dark);
+}
+
+header {
+  border-bottom: 2px dashed var(--color-fg);
+}
+
+footer {
+  margin-top: 1em;
+  border-top: 2px dashed var(--color-fg);
+}
+
+header, footer {
+  padding: 0.5em 0;
+  font-size: 0.8em;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  list-style: none;
+  display: inline-block;
+  padding: 0;
+  margin: 0.5em 1em;
+}
+
+nav li:first-child {
+  margin-left: 0;
+}
+
+main img {
+  margin: 0.5em;
+  border: 0.62em solid var(--color-a);
+}
+
+main img.right {
+  float: right;
+  margin-right: 0;
+}
+
+main img.left {
+  float: left;
+  margin-left: 0;
+}
+
+@media screen and (max-width: 480px) {
+  main img.left, main img.right {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+}

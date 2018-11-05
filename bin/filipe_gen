@@ -1,0 +1,18 @@
+#!/usr/bin/env sh
+
+# Quick and dirty shortcut to generate the website 
+
+bin="$(dirname "$0")"
+src_dir="$bin/../src"
+deploy_dir="$bin/../deploy"
+
+if [ ! -d "$deploy_dir" ]; then
+  mkdir "$deploy_dir"
+fi
+
+"$bin"/ssg3 \
+  "$src_dir" \
+  "$deploy_dir" \
+  "fili.pe" \
+  "https://fili.pe"
+

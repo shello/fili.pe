@@ -1,0 +1,14 @@
+#!/usr/bin/env sh
+
+# Based on https://www.romanzolotarev.com/ssg.html#Watch
+
+deploy_dir="${1:?Usage: $0 <deploy-dir>}"
+
+if [ ! -d "$deploy_dir" ]; then
+  mkdir "$deploy_dir"
+fi
+
+while :; do
+  find . -type f ! -path "*/.*" \
+    | entr -d "$(dirname "$0")/ssg3" "$(dirname "$0")/../src" "$1" "[LIVE $(date)] fili.pe" "//"
+done
