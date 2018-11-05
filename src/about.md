@@ -35,6 +35,7 @@ has the fingerprint `AC52 27BB DC25 CB68 E541 BEBB D284 90BC FBFA AEAD`.
 ## Website
 
 This website was generated using Roman Zolotarev's <a href="https://www.romanzolotarev.com/ssg.html" title="ssg">ssg</a>.
+You can check its source on <a href="https://github.com/shello/fili.pe" title="GitHub page for fili.pe">GitHub</a>.
 
 
 <style>
