@@ -25,6 +25,13 @@ a:visited {
   color: var(--color-b-dark);
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: sans-serif;
+  border-left: 12pt solid var(--color-a);
+  padding-left: 6pt;
+  margin-left: -18pt;
+}
+
 header {
   border-bottom: 2px dashed var(--color-fg);
 }
