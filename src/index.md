@@ -10,7 +10,7 @@ Meanwhile, it serves as a beacon for my web presence.
 
 You can find me on the internet on these places:
 
-- Fediverse/Mastodon: [@shello@octodon.social](https://octodon.social/@shello)
+- Fediverse/Mastodon: <a href="https://octodon.social/@shello" rel="me">@shello@octodon.social</a>
 - Twitter: [@shello](https://twitter.com/shello) (mostly abandoned)
 - GitHub: [shello](https://github.com/shello)
 - Pinboard: [shello](https://pinboard.in/u:shello)
