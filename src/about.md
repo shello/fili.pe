@@ -7,8 +7,8 @@ Hello there!
 I'm Filipe Rodrigues. I was born in the very-late-80s in Portugal, where
 I still live. I don't take myself very seriously, nor should you!
 
-On the internet I usually go by "shello", the handle I've used since the
-early 2000s.
+On the internet, and often <abbr title="Away From Keyboard">AFK</abbr>,
+I usually go by "shello", the handle I've used since the early 2000s.
 
 I spend probably too much of my own time among computers, but I'm also
 paid for doing that, working mostly on back-end web development.
