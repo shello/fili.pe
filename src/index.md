@@ -1,7 +1,7 @@
 # fili.pe
 
 I'm [Filipe Rodrigues](/about.html "About me"), a software developer,
-who usually goes by the handle "shello" on the Internet.
+and I usually go by "shello" on the Internet and beyond.
 
 On this web address I might share some stuff I put together.
 Meanwhile, it serves as a beacon for my web presence.

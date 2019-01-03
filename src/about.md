@@ -4,11 +4,13 @@
 
 Hello there!
 
-I'm Filipe Rodrigues. I was born in the very-late-80s in Portugal, where
+I'm Filipe Rodrigues <sup class="ipa">([IPA][ipa]: /fi.ˈli.pɘ
+rʊ.ˈdri.ɡəʒ/)</sup>. I was born in the very-late-80s in Portugal, where
 I still live. I don't take myself very seriously, nor should you!
 
 On the internet, and often <abbr title="Away From Keyboard">AFK</abbr>,
-I usually go by "shello", the handle I've used since the early 2000s.
+I usually go by "shello"<sup class="ipa">([IPA][ipa]: /ˈʃɛ.lːo/)</sup>,
+the handle I've used since the early 2000s.
 
 I spend probably too much of my own time among computers, but I'm also
 paid for doing that, working mostly on back-end web development.
@@ -17,10 +19,12 @@ On the technology front, the topics I like to explore, and hold *firm*
 opinions on (ranging from educated to laughably informed) are UNIX-like
 systems, scripting, security, and programming habits.
 
-Beyond computers and technology, my interests span sciences, visual arts
-and nature.
+Beyond computers and technology, my interests span sciences,
+electronics, visual arts, puzzles, and nature. Some of them make part of
+my pastimes.
+
 I'm a lover of furry friends like ferrets, otters, hedgehogs and
-owls&mdash;but I'm not a guardian to a pet in any of those species.
+owls&mdash;but I'm not a guardian to any animal.
 
 
 ## Contact
@@ -34,14 +38,23 @@ has the fingerprint `AC52 27BB DC25 CB68 E541 BEBB D284 90BC FBFA AEAD`.
 
 ## Website
 
-This website was generated using Roman Zolotarev's <a href="https://www.romanzolotarev.com/ssg.html" title="ssg">ssg</a>.
-You can check its source on <a href="https://github.com/shello/fili.pe" title="GitHub page for fili.pe">GitHub</a>.
+You can check this website's source code on [GitHub][fili.pe_source]. It
+is generated using Roman Zolotarev's [`ssg`][ssg].
+
+
+[ipa]: https://en.wikipedia.org/wiki/International_Phonetic_Alphabet "International Phonetic Alphabet"
+[ssg]: https://www.romanzolotarev.com/ssg.html "ssg, a static site generator written in shell"
+[fili.pe_source]: https://github.com/shello/fili.pe "GitHub page for fili.pe"
 
 
 <style>
   .photo {
     width: 250px;
     height: 250px;
+  }
+  .ipa {
+    font-family: sans-serif;
+    font-variant-ligatures: none;
   }
 </style>
 
