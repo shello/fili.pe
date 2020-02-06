@@ -38,6 +38,9 @@ has the fingerprint `AC52 27BB DC25 CB68 E541 BEBB D284 90BC FBFA AEAD`.
 
 ## Website
 
+The <span class="prefix-emoji">small emoji</span> of my face you can see on
+this website was designed by [Dzuk](https://noct.zone/).
+
 You can check this website's source code on [GitHub][fili.pe_source]. It
 is generated using Roman Zolotarev's [`ssg`][ssg].
 
