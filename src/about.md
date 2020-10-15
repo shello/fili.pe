@@ -32,7 +32,7 @@ owls&mdash;but I'm not a guardian to any animal.
 You can find a list of web places I frequent on the [home page](/).
 
 If you care, my [PGP public key](/PGP_PubKey-Filipe_Rodrigues.asc)
-([keyserver](http://pool.sks-keyservers.net:11371/pks/lookup?op=get&search=0xD28490BCFBFAAEAD))
+([keyserver](https://keys.openpgp.org/search?q=0xAC5227BBDC25CB68E541BEBBD28490BCFBFAAEAD))
 has the fingerprint `AC52 27BB DC25 CB68 E541 BEBB D284 90BC FBFA AEAD`.
 
 
